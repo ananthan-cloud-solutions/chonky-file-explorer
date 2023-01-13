@@ -4581,7 +4581,7 @@
   resolved "https://registry.yarnpkg.com/@react-dnd/shallowequal/-/shallowequal-2.0.0.tgz#a3031eb54129f2c66b2753f8404266ec7bf67f0a"
   integrity sha512-Pc/AFTdwZwEKJxFJvlxrSmGe/di+aAOBn60sremrpLo6VI/6cmiUYNNwlI5KNYttg7uypzA3ILPMPgxB2GYZEg==
 
-"@reduxjs/toolkit@^1.6.0":
+"@reduxjs/toolkit@^1.5.0", "@reduxjs/toolkit@^1.6.0":
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/@reduxjs/toolkit/-/toolkit-1.9.1.tgz#4c34dc4ddcec161535288c60da5c19c3ef15180e"
   integrity sha512-HikrdY+IDgRfRYlCTGUQaiCxxDDgM1mQrRbZ6S1HFZX5ZYuJ4o8EstNmhTwHdPl2rTmLxzwSu0b3AyeyTlR+RA==
@@ -8217,6 +8217,41 @@ chokidar@^3.5.3:
     readdirp "~3.6.0"
   optionalDependencies:
     fsevents "~2.3.2"
+
+chonky@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/chonky/-/chonky-2.3.2.tgz#40f2d7e922291efba16006e669d0b92922d582fd"
+  integrity sha512-ed2u+SEjEPSn8bv/zC0sXfMG/XS6Ydm4J2leLCvRb7a/2BZxKqE1DFETxqfLeJ2OA1IRujvwnuvmJO8ZgyOGyA==
+  dependencies:
+    "@material-ui/core" "4.11.3"
+    "@reduxjs/toolkit" "^1.5.0"
+    "@types/classnames" "^2.2.11"
+    "@types/fuzzy-search" "^2.1.0"
+    "@types/memoizee" "^0.4.5"
+    "@types/react" "^17.0.3"
+    "@types/react-redux" "^7.1.16"
+    "@types/react-virtualized-auto-sizer" "^1.0.0"
+    "@types/react-window" "^1.8.2"
+    "@types/redux-watch" "^1.1.0"
+    "@types/shortid" "^0.0.29"
+    classnames "^2.2.6"
+    deepmerge "^4.2.2"
+    exact-trie "^1.0.13"
+    fast-sort "^2.2.0"
+    filesize "^6.1.0"
+    fuzzy-search "^3.2.1"
+    hotkeys-js "^3.8.3"
+    react-dnd "11"
+    react-dnd-html5-backend "11"
+    react-intl "^5.13.2"
+    react-jss "^10.5.1"
+    react-redux "^7.2.2"
+    react-virtualized-auto-sizer "^1.0.5"
+    react-window "^1.8.6"
+    redux-watch "^1.2.0"
+    shortid "^2.2.16"
+    styled-components "^5.3.0"
+    tsdef "^0.0.14"
 
 chownr@^1.1.1, chownr@^1.1.2:
   version "1.1.4"
@@ -15468,10 +15503,10 @@ object-keys@^1.0.12, object-keys@^1.1.1:
   resolved "https://registry.yarnpkg.com/object-keys/-/object-keys-1.1.1.tgz#1c47f272df277f3b1daf061677d9c82e2322c60e"
   integrity sha512-NuAESUOUMrlIXOfHKzD6bpPu3tYt3xvjNdRIQ+FeT0lNb4K8WR70CaDxhuNguS2XG+GjkyMwOzsN5ZktImfhLA==
 
-object-path@^0.11.8:
+object-path@^0.11.5:
   version "0.11.8"
-  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.8.tgz"
-  integrity sha1-7QAsArvdAHC3iidFXorgH8FNR0I=
+  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.8.tgz#ed002c02bbdd0070b78a27455e8ae01fc14d4742"
+  integrity sha512-YJjNZrlXJFM42wTBn6zgOJVar9KFJvzx6sTWDte8sWZF//cnjl0BxHNpfZx+ZffXX63A9q0b1zsFiBX4g4X5KA==
 
 object-visit@^1.0.0:
   version "1.0.1"

@@ -1,6 +1,7 @@
 {
-  "name": "chonky",
+  "name": "@ananthan-cloud/chonky-file-explorer",
   "version": "2.3.2",
+  "private": false,
   "description": "A File Browser component for React",
   "license": "MIT",
   "main": "dist/index.js",
@@ -103,10 +104,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TimboKZ/Chonky.git"
+    "url": "git+https://github.com/ananthan-cloud-solutions/chonky-file-explorer.git"
   },
   "bugs": {
-    "url": "https://github.com/TimboKZ/Chonky/issues"
+    "url": "https://github.com/ananthan-cloud-solutions/chonky-file-explorer/issues"
   },
   "keywords": [
     "file",
