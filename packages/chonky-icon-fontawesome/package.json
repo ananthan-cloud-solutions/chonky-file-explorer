@@ -1,5 +1,5 @@
 {
-  "name": "chonky-icon-fontawesome",
+  "name": "@ananthan-cloud/chonky-icons",
   "version": "2.3.2",
   "description": "FontAwesome icon component for Chonky file browser",
   "license": "MIT",
@@ -65,7 +65,7 @@
     "@fortawesome/free-brands-svg-icons": "5.13.1",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/react-fontawesome": "^0.1.12",
-    "chonky": "^2.3.2"
+    "@ananthan-cloud/chonky-file-explorer": "^2.3.2"
   },
   "homepage": "https://chonky.io/",
   "author": {
@@ -75,10 +75,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TimboKZ/Chonky.git"
+    "url": "git+https://github.com/ananthan-cloud-solutions/chonky-file-explorer.git"
   },
   "bugs": {
-    "url": "https://github.com/TimboKZ/Chonky/issues"
+    "url": "https://github.com/ananthan-cloud-solutions/chonky-file-explorer/issues"
   },
   "keywords": [
     "file",
